@@ -11,7 +11,7 @@
 ![GitHub](https://img.shields.io/github/license/BAGBOY555/MT-VideoCompress)
 [![Bot Support](https://img.shields.io/badge/Video%20Compress%20Bot-support%20group-blue)](https://t.me/Dulquer_Salmaan_lovers)
 
-A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
+A Telegram Video Compressor Bot By [@AbirHasan2005](http://t.me/kurup2021_dq_movie_collection). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ### Special Features:
 - Bot's Live Status on Channel
@@ -24,7 +24,7 @@ A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **
 * If you need more help to Deploy Feel Free to ask in [Support Group](https://t.me/linux_repo).
 
 ### Demo Bot:
-<a href="@VideoCompressProRobot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/VideoCompressProRobot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ### Demo Logs Channel:
 <a href="https://t.me/VideoCompressBotStatus"><img src="https://img.shields.io/badge/Demo-Bot%20Logs%20Channel-blue.svg?logo=telegram"></a>
