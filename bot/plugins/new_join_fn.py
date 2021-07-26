@@ -43,7 +43,7 @@ async def help_message_f(client, message):
             user = await client.get_chat_member(UPDATES_CHANNEL, message.chat.id)
             if user.status == "kicked":
                await message.reply_text(
-                   text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/mo_tech_group).",
+                   text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/Dulquer_Salmaan_lovers).",
                    parse_mode="markdown",
                    disable_web_page_preview=True
                )
@@ -74,9 +74,9 @@ async def help_message_f(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('🗣️Group', url='https://t.me/Mo_Tech_Group'),
-                    InlineKeyboardButton('📢Update', url='https://t.me/Mo_Tech_YT'),
-                    InlineKeyboardButton('Bot List📃', url='https://t.me/Mo_Tech_YT/176')
+                    InlineKeyboardButton('🗣️Group', url='https://t.me/Dulquer_Salmaan_lovers'),
+                    InlineKeyboardButton('📢Update', url='https://t.me/Dulquer_Salmaan_lovers'),
+                    InlineKeyboardButton('Bot List📃', url='https://t.me/Dulquer_Salmaan_lovers')
                 ],
                 [
                     InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://youtu.be/lb-JJLqyww4')
