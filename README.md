@@ -21,7 +21,7 @@ A Telegram Video Compressor Bot By [@AbirHasan2005](http://t.me/kurup2021_dq_mov
 	- Can Ban-Unban Manually
 	- Can see numbers users in DB
 
-* If you need more help to Deploy Feel Free to ask in [Support Group](https://t.me/linux_repo).
+* If you need more help to Deploy Feel Free to ask in [Support Group](http://t.me/kurup2021_dq_movie_collection).
 
 ### Demo Bot:
 <a href="https://t.me/VideoCompressProRobot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
@@ -33,7 +33,7 @@ A Telegram Video Compressor Bot By [@AbirHasan2005](http://t.me/kurup2021_dq_mov
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ### Support Group:
-<a href="https://t.me/mo_tech_Group"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="http://t.me/kurup2021_dq_movie_collection"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Required Configs:
 * `SESSION_NAME` - Any name of session. Better keep default.
