@@ -27,7 +27,7 @@ A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **
 <a href="https://t.me/MT_VideoCompress_Bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ### Demo Logs Channel:
-<a href="https://t.me/MT_VideoCompress_Logs"><img src="https://img.shields.io/badge/Demo-Bot%20Logs%20Channel-blue.svg?logo=telegram"></a>
+<a href="https://t.me/VideoCompressBotStatus"><img src="https://img.shields.io/badge/Demo-Bot%20Logs%20Channel-blue.svg?logo=telegram"></a>
 
 ## Easy Deploy:
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
